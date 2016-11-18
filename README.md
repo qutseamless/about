@@ -2,10 +2,10 @@
 Seamless is Queensland University of Technology IN01 capstone project created
 by:
 
-  - Jack Buckman - N.
+  - Jack Buckman - N9285067.
   - Leon Pearce - N9146890.
-  - Matthew Jones - N.
-  - Tylor Stewart - N.
+  - Matthew Jones - N8878706.
+  - Tylor Stewart - N9013555.
 
 The project's goal is to build a cloud based system for location tracking;
 including capturing sensitive transit data (eg: conditions of cargo), upload
