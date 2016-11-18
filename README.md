@@ -17,20 +17,20 @@ The client application is a web based single paged application. this will be the
 main point of interaction for users of the service.
 
 ### Useful information
-  - Readme.md [here](https://github.com/qutseamless/client).
+  - find more info [here](https://github.com/qutseamless/client).
 
 ## web api
 The server application will become the backbone of the project and will be the
 interface to all data. the server architecture will be of a HTTP Restful API.
 
 ### Useful information
-  - Readme.md [here](https://github.com/qutseamless/api).
+  - find more info [here](https://github.com/qutseamless/api).
 
 ## device app
-  - Readme.md [here](https://github.com/qutseamless/device).
+  - find more info [here](https://github.com/qutseamless/device).
 
 ### Useful information
-  - Readme.md [here](https://github.com/qutseamless/device).
+  - find more info [here](https://github.com/qutseamless/device).
 
 ## shipment app
 The shipment application will consist of a library designed to mock shipments.
@@ -38,4 +38,4 @@ It will accept a set of options and in real-time create mocked deliveries.
 This will be used to perform high level testing.
 
 ### Useful information
-  - Readme.md [here](https://github.com/qutseamless/shipment).
+  - find more info [here](https://github.com/qutseamless/shipment).
